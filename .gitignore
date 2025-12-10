@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+
+# Project Data (generated)
+data/wikicontradict_out/
+
+# OS
+.DS_Store
+Thumbs.db
+
